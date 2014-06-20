@@ -10,7 +10,7 @@ My digital resume giving details about various works I have done. Meanwhile, lea
 
 How to Use it?
 
-Feel free to add code or branch it. I am really interested in feedbacks at this point. It is an open source project which actually works. :-)
+Feel free to add code or branch it. I am really interested in feedbacks at this point. It is an open source project which actually works:-)
 
 How to Install and run it?
 
